@@ -1,3 +1,5 @@
+#! /bin/bash
+
 authdb="admin"
 database="<database>"
 username="<username>"
